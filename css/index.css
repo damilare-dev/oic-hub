@@ -1,0 +1,219 @@
+#ftimg{
+    width: 100%;
+    height: 340px;
+    margin-top: 80px;
+}
+
+.toolsimg{
+    width: 100%;
+    height: 50px;
+}
+
+#toolsimg{
+    width: 100%;
+    height: 25px;
+}
+
+.imghld{
+    width: 100%;
+}
+
+.divimg{
+    display: inline-block;
+    padding: 15px 25px;
+}
+#cont{
+    padding: 55px 0;
+}
+
+#more{
+    text-decoration: none;
+    font-size: 30px;
+    color: gold;
+    display: inline-block;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #38b6ff;
+}
+
+
+#more:hover{
+    color: #38b6ff;
+    border-bottom: 1px solid #38b6ff;
+    transition: 0.3s;
+    padding-bottom: 40px;
+}
+
+#mric{
+    color: gold;
+    font-size: 25px;
+}
+
+#mric:hover{
+    color: #38b6ff;
+}
+
+#scroll-sec{
+    background-color: rgb(73, 73, 73);
+    color: white; 
+    text-align: center; 
+    margin-top: 55px;
+    height: 700px;
+    overflow: auto;
+}
+
+#vis{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 80px 20px;
+    margin-bottom: 30px;
+    height: 300px;
+    position: relative;
+}
+
+#visic{
+    position: absolute;
+    top: -40px;
+    left: 43%;
+    border-radius: 50%;
+    color: white;
+    background-color: black;
+    height: 80px;
+    width: 80px;
+    padding-top: 13px;
+    /* padding: 0 8px; */
+    border: 6px solid  #38b6ff;
+    font-size: 40px;
+}
+
+#mis{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 80px 20px;
+    height: 400px;
+    position: relative;
+}
+
+#vismis{
+    padding: 50px 0 ;
+}
+
+#vismis  h4{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#vismis h4:hover{
+    /* color: white; */
+    display: block;
+} 
+
+#vismis div:hover{
+    color: white;
+    transition: 0.4s ease-in-out;
+    background-color: #38b6ff;
+}
+
+#why{
+    padding: 50px 0;
+    position: relative;
+}
+
+#whyic{
+    border: 2px solid white;
+    color: 38b6ff;
+    font-size: 30px;
+    padding-top: 13px;
+    border-radius: 48%;
+    height: 65px;
+    width: 65px;
+}
+
+
+#hr1{
+    position: absolute;
+    /* color: red; */
+    width: 8%;
+    left: 45%;
+    border: 1px solid rgb(73, 130, 214);
+}
+
+
+
+#hr2{
+    position: absolute;
+    /* color: red; */
+    width: 23%;
+    left: 40%;
+    border: 1px solid rgb(6, 102, 247);
+}
+
+
+
+#hr1:hover{
+    position: absolute;
+    width: 15%;
+}
+
+#why h3{
+    color: #38b6ff;
+    padding: 20px 0;
+    font-size: 35px;
+}
+
+#divwhy div{
+    padding: 40px;
+    border-right: 1px solid  #38b6ff;
+}
+
+#divwhy h4{
+    color:  #38b6ff;
+    font-size: 30px;
+}
+
+.train-div{
+    margin-bottom: 40px;
+    position: relative;
+}
+
+#toolic{
+    position: absolute;
+    left: -75px;
+    top: -7px;
+    border: 2px solid #38b6ff;
+    color: #38b6ff;
+    font-size: 28px;
+    padding-top: 13px;
+    padding-left: 13px;
+    border-radius: 48%;
+    height: 65px;
+    width: 65px;
+}
+
+#toolic_phone{
+    position: absolute;
+    left: -75px;
+    top: -7px;
+    border: 2px solid #38b6ff;
+    color: #38b6ff;
+    font-size: 28px;
+    padding-top: 13px;
+    padding-left: 20px;
+    border-radius: 48%;
+    height: 65px;
+    width: 65px;
+}
+
+.train-div h4{
+    color: #38b6ff;
+}
+
+
+@media(max-width: 768px){
+#caption p {
+    font-size: 12px;
+    display: none;
+}
+
+}
+
