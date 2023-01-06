@@ -33,7 +33,7 @@ nav a:hover{
     background-color: gainsboro;
 }
 
-@media(max-width:2000px){
+@media(max-width:3000px){
     #nav_h2{
         color: black;
         display: none;
