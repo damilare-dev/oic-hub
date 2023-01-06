@@ -219,5 +219,9 @@
     display: none;
 }
 
+.carousel-item img{
+    height: 300px;
+}
+
 }
 
